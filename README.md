@@ -22,17 +22,10 @@
 
 ### 🚀 Технические проекты и автоматизация
 В этих репозиториях я демонстрирую свой подход к автоматизации рутины и работе с данными:
-* 🎮 [**opencritic-calendar-optimizer**](https://github.com/MaxYtre/opencritic-calendar-optimizer) — Инструмент для оптимизации календаря релизов игр на основе данных OpenCritic.
-* 📅 [**afisha-scraper-ics**](https://github.com/MaxYtre/afisha-scraper-ics) — Парсер расписаний (афиши) с генерацией файлов ICS для удобной работы с календарями.
-* 🛜 [**keenetic-telegram-monitor**](https://github.com/MaxYtre/keenetic-telegram-monitor) — Система на Shell-скриптах для мониторинга роутеров Keenetic с отправкой системных уведомлений в Telegram.
-
-### 📊 Статистика GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxYtre&show_icons=true&theme=radical&hide_border=true" alt="Статистика" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxYtre&layout=compact&theme=radical&hide_border=true" alt="Топ языков" />
-</p>
+* [**opencritic-calendar-optimizer**](https://github.com/MaxYtre/opencritic-calendar-optimizer) — Инструмент для оптимизации календаря релизов игр на основе данных OpenCritic.
+* [**afisha-scraper-ics**](https://github.com/MaxYtre/afisha-scraper-ics) — Парсер расписаний (афиши) с генерацией файлов ICS для удобной работы с календарями.
+* [**keenetic-telegram-monitor**](https://github.com/MaxYtre/keenetic-telegram-monitor) — Система на Shell-скриптах для мониторинга роутеров Keenetic с отправкой системных уведомлений в Telegram.
 
 ### 📫 Связь со мной
-- **Telegram:** [@Твой_Ник_В_ТГ](https://t.me/Твой_Ник_В_ТГ)
-- **Email:** [твой_email@gmail.com](mailto:твой_email@gmail.com)
-- **Портфолио / Дизайн-кейсы:** [Ссылка на портфолио](https://твоя-ссылка)
+- **Telegram:** [@Твой_Ник_В_ТГ](tg://resolve?domain=sentyabov)
+- **Email:** [твой_email@gmail.com](mailto:sentyabov.m.ya@gmail.com)
