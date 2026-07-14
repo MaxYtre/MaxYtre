@@ -27,5 +27,5 @@
 * [**keenetic-telegram-monitor**](https://github.com/MaxYtre/keenetic-telegram-monitor) — Система на Shell-скриптах для мониторинга роутеров Keenetic с отправкой системных уведомлений в Telegram.
 
 ### 📫 Связь со мной
-- **Telegram:** [@Твой_Ник_В_ТГ](tg://resolve?domain=sentyabov)
-- **Email:** [твой_email@gmail.com](mailto:sentyabov.m.ya@gmail.com)
+- **Telegram:** [@sentyabov](https://telegram.me/sentyabov)
+- **Email:** [sentyabov.m.ya@gmail.com](mailto:sentyabov.m.ya@gmail.com)
